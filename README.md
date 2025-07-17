@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **G-tech**
 
-- 📫 How to reach me **bryanmfb4@gmail.com**
+- 📫 How to reach me **https://garrixdev.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
