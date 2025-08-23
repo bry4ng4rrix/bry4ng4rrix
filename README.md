@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bry4ng4rrix&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGarrix&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bry4ng4rrix&layout=compact&theme=tokyonight)
 
 ---
 
