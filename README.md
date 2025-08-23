@@ -4,11 +4,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn.ui-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 # 🗄️ Bases de données
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -18,11 +20,11 @@
 # 🛠️ DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-FC6A0A?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=server-fault&logoColor=white)
 
 ---
-
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bry4ng4rrix&show_icons=true&theme=tokyonight)
 
