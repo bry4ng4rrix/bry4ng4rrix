@@ -43,5 +43,3 @@ Développeur Fullstack spécialisé en **Frontend, Backend et Design UI/UX**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://garrixdev.vercel.app)  
 [![Email](https://img.shields.io/badge/Email-bryanmfb4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanmfb4@gmail.com)
-
-![Portfolio](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
