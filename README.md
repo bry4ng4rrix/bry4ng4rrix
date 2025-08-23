@@ -1,8 +1,5 @@
 Développeur Fullstack spécialisé en **Frontend, Backend et Design UI/UX**.  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://garrixdev.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-bryanmfb4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanmfb4@gmail.com)
-
 ---
 
 ## 🔧Stacks
@@ -41,3 +38,8 @@ Développeur Fullstack spécialisé en **Frontend, Backend et Design UI/UX**.
 ---
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bry4ng4rrix&show_icons=true&theme=tokyonight)
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://garrixdev.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-bryanmfb4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanmfb4@gmail.com)
