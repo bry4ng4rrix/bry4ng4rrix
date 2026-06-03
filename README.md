@@ -3,7 +3,7 @@ Portfolio : https://garrixdev.vercel.app
 
 ---
 
-https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
+![garrix](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
 
 ## 🔧Stacks
 
